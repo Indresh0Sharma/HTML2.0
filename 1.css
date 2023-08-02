@@ -1,5 +1,14 @@
-p{
-    color:red;
-    font-size: 40px;
-    background-color: black;
- }
+#xyz{background-color:lightgreen;
+    border: solid;
+    border-width: 5;
+    border-color: red green blue black;
+    margin: 5;
+    padding: 5px;
+    text-align: center;
+    text-size-adjust: auto;
+    color: blue;
+    border-radius: 1px;
+    font-family: 'Gill Sans';
+    font-size: large;
+
+}
