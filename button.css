@@ -1,0 +1,35 @@
+/* h1{background-color:lightgreen; 
+    border: solid; 
+    border-width: 5;
+    border-color: red green blue black;
+    margin: 5;
+    padding: 5px 40px;
+    text-align: center;
+    text-size-adjust: auto;
+    color: blue;
+    border-radius: 1px;
+    font-family: 'Gill Sans';
+    font-size: large;
+
+      } */
+.box{ 
+     background-color:white; 
+    border: solid;
+    border-width: 3;
+    border-color:black;
+    margin: 5px;
+    padding: 5px 30px;
+    text-align: center;
+    text-size-adjust: auto;
+    color: blue;
+    border-radius: 0px;
+  
+
+}
+.box:hover{
+    background-color: aqua;
+    color: black;
+    border-color: red;
+    transform: scaley(0.2);
+    transition: 3s;
+}
