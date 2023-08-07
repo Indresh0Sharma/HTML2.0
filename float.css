@@ -1,0 +1,59 @@
+.div{
+
+    float:left;
+    background-color: red;
+    border: solid;
+}
+
+.mydiv{
+    float: left;
+    background-color: aqua;
+    border: solid;
+}
+
+.ra{
+
+    float: left;
+    background-color: blue;
+    border: solid;
+}
+
+.sk{
+
+    float: left;
+    background-color: yellow;
+    border: solid;
+}
+.hw{
+    height: 200px;
+    width: 200px;
+}
+
+.fl{
+
+    float: left;
+}
+
+
+
+.pos{
+
+    height: 200px;
+    width: 200px;
+    border: solid;
+    background-color: blueviolet;
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+/* .pos1{
+
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: white;
+    position: relative;
+    top: 50px;
+    left: 100px;
+    left: 600px;
+} */
