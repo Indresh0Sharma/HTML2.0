@@ -57,3 +57,39 @@
     left: 100px;
     left: 600px;
 } */
+
+.container{
+    /* display: flex; */
+    display: grid;
+}
+
+.one{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+.two{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.three{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.four{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+
+
+.five{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
